@@ -62,7 +62,8 @@
     "tinymce": "4.5.7",
     "typeface-exo": "0.0.22",
     "web-animations-js": "2.2.5",
-    "zone.js": "^0.8.14"
+    "zone.js": "^0.8.14",
+    "ng2-charts": "^1.6.0"
   },
   "devDependencies": {
     "@angular/cli": "1.4.9",
